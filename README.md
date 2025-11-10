@@ -12,7 +12,7 @@ This exploratory data analysis (EDA) project focuses on Foodpanda’s market dat
 ### 🔍 Key Steps
 - Cleaned and preprocessed raw Foodpanda dataset  
 - Conducted exploratory data analysis to identify key metrics  
-- Created six analytical visualizations (bar charts, histograms, pie charts, etc.)  
+- Created thirteen analytical visualizations (bar charts, histograms, pie charts, line charts, etc.)  
 - Derived meaningful insights on customer demand and ordering patterns  
 
 ### 📊 Results
